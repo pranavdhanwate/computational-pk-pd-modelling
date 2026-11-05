@@ -1,0 +1,49 @@
+{
+  "Theophylline": {
+    "indication": "Bronchodilator (Asthma / COPD)",
+    "therapeutic_window_mg_l": [10.0, 20.0],
+    "molecular_weight_g_mol": 180.16,
+    "typical_dose_mg": 300.0,
+    "bioavailability_f": 0.95,
+    "volume_of_distribution_l": 35.0,
+    "clearance_l_h": 2.8,
+    "absorption_rate_constant_h": 1.2,
+    "half_life_h": 8.66,
+    "dosing_interval_h": 12.0,
+    "pd_emax": 100.0,
+    "pd_ec50_mg_l": 12.0,
+    "pd_hill_gamma": 2.5
+  },
+  "Ciprofloxacin": {
+    "indication": "Broad-spectrum antibacterial (Fluoroquinolone)",
+    "therapeutic_window_mg_l": [1.0, 5.0],
+    "molecular_weight_g_mol": 331.34,
+    "typical_dose_mg": 500.0,
+    "bioavailability_f": 0.70,
+    "volume_of_distribution_l": 120.0,
+    "clearance_l_h": 30.0,
+    "absorption_rate_constant_h": 1.5,
+    "half_life_h": 4.0,
+    "dosing_interval_h": 12.0,
+    "pd_emax": 99.9,
+    "pd_ec50_mg_l": 1.5,
+    "pd_hill_gamma": 3.0
+  },
+  "Gentamicin": {
+    "indication": "Severe Gram-negative bacteremia (Aminoglycoside)",
+    "therapeutic_window_mg_l": [2.0, 10.0],
+    "molecular_weight_g_mol": 477.6,
+    "typical_dose_mg": 120.0,
+    "bioavailability_f": 1.0,
+    "volume_of_distribution_l": 18.0,
+    "central_volume_vc_l": 12.0,
+    "peripheral_volume_vp_l": 15.0,
+    "clearance_l_h": 4.5,
+    "absorption_rate_constant_h": 0.0,
+    "half_life_h": 2.77,
+    "dosing_interval_h": 8.0,
+    "pd_emax": 100.0,
+    "pd_ec50_mg_l": 3.5,
+    "pd_hill_gamma": 2.0
+  }
+}
